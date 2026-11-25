@@ -1,3 +1,5 @@
+//Inheritance file making sure the all the correct variables are here and methods so that
+//student is setup properly and going to have all is correct parts
 #ifndef STUDENT_H
 #define STUDENT_H
 

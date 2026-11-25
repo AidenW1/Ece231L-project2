@@ -1,5 +1,6 @@
 
-
+//Same implementor from art student but just changed for the physics student where
+//we are stting up the methods for constructing deconstructing getting and setting
 #include "Physics_Student.h"
 
 Physics_Student::Physics_Student()

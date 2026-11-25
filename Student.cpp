@@ -1,3 +1,6 @@
+//Main base class where everything will be copying from for the setting and getting
+//constructing and deconstructing from here is where the other 2 types of students add on
+//to make them more unique
 #include "Student.h"
 #include <iostream>
 

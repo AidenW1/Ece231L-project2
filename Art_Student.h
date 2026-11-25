@@ -1,5 +1,6 @@
 
-
+//Inheritance file here to make sure the Art_Student has the correct methods to be used
+//constructor deconstructor getter and then setter
 #ifndef ART_STUDENT_H
 #define ART_STUDENT_H
 

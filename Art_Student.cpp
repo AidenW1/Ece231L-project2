@@ -1,5 +1,5 @@
 
-
+//Implementation file for the Art student holding the methods to be used for its inheritance
 #include "Art_Student.h"
 
 Art_Student::Art_Student()
